@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 URL = "https://tsn.ua/news/"
-PAGES_COUNT = 25
+PAGES_COUNT = 50
 
 def clean_article_text(text: str) -> str:
     lines = text.split("\n")
