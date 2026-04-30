@@ -10,3 +10,6 @@ matplotlib
 selenium
 webdriver_manager
 undetected-chromedriver
+groq
+python-dotenv
+seaborn
