@@ -13,3 +13,7 @@ undetected-chromedriver
 groq
 python-dotenv
 seaborn
+SpeechRecognition
+gTTS
+pygame
+pyaudio
